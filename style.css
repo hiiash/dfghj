@@ -1,0 +1,23 @@
+body
+{
+    background-color: palevioletred;
+}
+
+#score
+{
+    font-size: medium;
+    margin-left: 20px;
+}
+
+#timer
+{
+    font-size: medium;
+    float: right;
+    margin-right: 20px;
+}
+
+#stbd
+{
+    color: violet;
+}
+
